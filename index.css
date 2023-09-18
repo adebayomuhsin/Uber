@@ -1,0 +1,38 @@
+section {
+    background-color: black;
+    width: 100vw;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 1000px;
+}
+.drivewithuber{
+    display: flex;
+    justify-content: center;
+    gap:350px; 
+    color: white;
+}
+.firsttext {
+    margin-top: 200px;
+}
+.earnit{
+    margin-right: 100px;
+    color:white;
+    gap: 350px;
+}
+.setyour {
+    margin-right:100px;
+    justify-content: center;
+    gap: 350px;  
+}
+.uberride {
+    display: flex;
+}
+.abo {
+}
+
+    
+
+
+
